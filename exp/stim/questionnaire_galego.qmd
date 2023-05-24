@@ -1,0 +1,214 @@
+---
+title: "Galego Intonation Questionnaire"
+author: "Robert Esposito"
+format: html
+toc: TRUE
+---
+# Galego Intonation Questionnaire
+
+## Statements
+
+### Neutral
+
+#### Unmarked
+
+<!-- 1. Te han pedido si quieres peras o mandarinas. Tú respondes que mandarinas. -->
+1. Preguntaronche si queres peras ou mandarinas. Ti respondes que mandarinas.
+<!-- *Mandarinas.* -->
+*Mandarinas.*
+
+<!-- 2. Mira el dibujo y di lo que hace la niña. -->
+2. Mira o debuxo e di o que fa a rapaza.
+![fig. 1](girl_drinking_lemonade.PNG)
+<!-- *Bebe una limonada.* -->
+*Bebe unha lemonada.*
+
+<!-- 3. Mira el dibujo y di lo que ves. -->
+3. Mira o debuxo e di o que ves.
+![fig. 2](girl_eating_orange.jpg)
+<!-- *María come mandarinas.* -->
+*María come mandarinas.*
+
+#### Enumeration
+
+<!-- 4. Di los días de la semana. -->
+4. Di os dias da sema.
+
+<!-- 5. Haz una lista de las frutas que más te gustan. -->
+5. Fai unha lista das frutas que mais che gostan.
+
+### Marked
+
+#### Contrastive focus
+
+<!-- 6. Entras en una frutería y la frutera es un poco sorda. -->
+6. Entras nunha fruteria e a fruteira e un pouco sorda.
+
+<!-- A. Quiero un kilo de limones. -->
+A. Quero un kilo de limons.
+
+<!-- B. ¿De naranjas? -->
+B. ¿De laranxas?
+
+<!-- *A. No, de LIMONES.* -->
+*A. Non, de limons*
+
+#### Exclamative
+
+<!-- 7. Entras en una panadería y notas un olor a pan muy bueno. Díselo a la panadera. -->
+7. Entras nunha panaderia e notas un cheiro a pan moi bo. Dillo a panadeira.
+<!-- *¡Qué olor a pan tan bueno!* -->
+*Qué cheiro a pan tan bo.*
+
+#### Contradiction statement
+
+<!-- 8. Una amiga y tú estáis hablando de unos amigos que se van a vivir al extranjero. Tú sabes segura que irán a Lima, pero tu amiga piensa, también bastante segura, que irán a Bogotá. Dile, seguro, que no, que irán a Lima. -->
+8. Una amiga e ti estades falando duns amigos que se van vivir o extranxeiro. Ti estas segura que van ir a Lima, pero a tua amiga pensa, tamen bastante segura, que van ir a Bogotá. Dille, seguro, que non, que van ir a Lima.
+<!-- *¡Que no, que irán a Lima!* -->
+*Que non, que van ir a Lima!*
+
+#### Uncertainty statement
+
+<!-- 9. Te han encargado comprar un regalo para alguien que no conoces mucho y te da un poco de apuro no comprarlo bien. Dile a la persona que te lo ha encargado que igual no le gusta el regalo que le has comprado. -->
+9. Encargaron-che comprar un agasallo para alguen que no coñeces moito e da-che un poco de apuro non compra-lo ben. Dille a persoa que cho encargou que se cadra non lle gosta o agasallo que lle comprastes.
+<!-- *Puede que no le guste el regalo que le he comprado.* -->
+*Se cadra non lle gosta o agasallo que lle comprei.*
+
+#### Statement of the obvious
+
+<!-- 10. Estás con una amiga y le cuentas que María, una amiga común, está embarazada. Ella te pregunta que de quién está embarazada y tú te extrañas mucho de que no lo sepa porque todo el mundo sabe que es de Guillermo, su novio de toda la vida. ¿Qué le dices? -->
+10. Estas con unha amiga e contas-lle que Maria, unha amiga das duas, esta embarazada. Ela pregunta-che que de quen esta embarazada e a ti extraña-che moito que non o sepa porque o mundo sabe que e de Guillermo, o mozo de toda a vida. ¿Qué lle dis?
+<!-- *¡Sí, mujer, de Guillermo!* -->
+*Si, muller, de Guillermo!*
+
+## Yes-No Questions
+
+### Neutral
+
+#### Information-seeking
+
+11.<!-- Entras en una tienda y pides al tendero si tiene mermelada. -->
+11. Entras nunha tenda e preguntas-lle o tendeiro si ten marmelada.
+<!-- *¿Tiene mermelada?* -->
+*Ten marmelada?*
+
+#### Disjunctive yes-no question
+
+<!-- 12. Para postre tienes melón y helado. Pide a los invitados si quieren melón o helado. -->
+12. De postre tes melon e xeado. Pregunta-lle os invitados si queren melon o xeado.
+
+#### Enumeration
+
+<!-- 13. Para postre tienes varias cosas. Pide a los invitados si quieren mandarinas, peras, sandía o helado. -->
+13. De postre tes varias cosas. Pregunta-lle os invitados si queren mandarinas, peras, sandia o xeado.
+
+### Marked
+
+#### Confirmation-seeking yes-no question
+
+<!-- 14. Sabes que fuera hace mucho frío. Entra alguien bien abrigado y le preguntas si teine frío. -->
+14. Sabes que fora fai moito frio. Entra alguen ben abrigado e preguntas-lle si ten frio.
+
+<!-- 15. Jaime ha dicho que vendría a comer. Se lo preguntas para confirmarlo. -->
+15. Xaime dixo que viria a comer. Pregunta-llo para confirmalo.
+<!-- *Vendrás a comer, ¿no?* -->
+*Vas vir a comer, non?*
+
+#### Imperative yes-no question
+
+<!-- 16. Tus nietos arman mucho alboroto y no te dejan oír la televisión. Les pides si se quieren callar. -->
+16. Os teus netos montan moito barullo e non che deixan oir a television. Preguntas-lle si queren calar.
+*Queredes calar?*
+
+<!-- 17. Pide a tus sobrinos si quieren caramelos. -->
+17. Preguntas-lle os teus sobriños si queren caramelos.
+*Queredes caramelos?*
+
+## Wh-questions
+
+### Neutral
+
+#### Information-seeking
+
+<!-- 18. Pide qué hora es. -->
+18. Pregunta qué hora é.
+*Qué hora é?*
+
+<!-- 19. Tienes que viajar a París y quieres comprar un regalo a una persona que no conoces y con la que quieres quedar bien. Quieres que un amigo tuyo te aconseje y le pides qué le traería. -->
+19. Tes que viaxar a Paris e queres comprar un agasallo para alguen que non coñeces e ca que queres quedar ben. Queres que un amigo teu che aconselle e preguntas-lle qué lle traería.
+*Qué lle-traerías ti?*
+
+<!-- 20. Ves que María se va. Pregúntale dónde y cuándo volverá. -->
+20. Ves que Maria marcha. Pregunta-lle adónde e cando volverá.
+*Adónde vas e cando volves?*
+
+### Marked
+
+#### Imperative wh- questions
+
+<!-- 21. Pides a tu hijo que haga arreglo en la casa y no estás segura que lo vaya a hacer porque no es la primera vez que se lo pides. Pregúntale, medio enfadada, cuándo lo hará. -->
+21. Mandas-lle o teu fillo que arregle a casa e non estas segura de que o faga porque non é a primeira vez que llo mandas. Pregunta-lle, medio enfadada, cando o vai a fazer.
+*Cando o vas a fazer.*
+
+<!-- 22. Tienes ganas de que unos amigos vengan a comer a tu casa. Medio suplicando, porque ya te han dicho que no pueden venir, le prguntas por qué no viene. -->
+22. Tes ganas de que uns amigos veñan comer a tua casa. Medio rogando, porque xa che dixeron que no poden vir, preguntas-lle por qué non veñen.
+*Por que non vindes?*
+
+## Echo questions
+
+### Neutral
+
+#### Neutral yes-no echo question
+
+<!--23. Te dan la hora, pero no acabas de entenderla. Piensas que te han dicho que son las nueve. Pregúntale que si te han dicho las nueves. -->
+23. Din-che que hora é, pero non o entendes de todo. Pensas que che dixeron que son as nove. Pregunta-lle se che dixeron as nove.
+*Dixestesme as nove?*
+
+#### Nuetral wh- echo question
+
+<!-- 24. Te han pedido dónde vas, pero no sabes si lo has entendido bien. Pide si es esto lo que ten han pedido. -->
+24. Preguntan-che onde vas, pero non sabes si entendestes ben. Preguntas-lle si é esto o que che preguntaron.
+*Preguntastesme onde vou?*
+
+#### Disjunctive echo question
+
+<!-- 25. Te han pedido por dónde has llegado, pero tú no sabes si te han pedido esto o si te han pedido por dónde has entrado. Pide si te han preguntado una cosa o la otra. -->
+25. Preguntan-che por donde viñastes, pero ti non sabes si che preguntan eso ou si che preguntan por donde entrastes. Pregunta-lle si preguntaron unha cosa o a outra.
+*Preguntasme por donde vin ou por donde entrei?*
+
+### Marked
+
+#### Counterexpectational yes-no echo question
+
+<!-- 26. Te dicen que un compañero tuyo, Mario, se presenta por alcalde. No te lo crees y lo vuelves a preguntar. -->
+26. Din-che que un compañeiro teu, Mario, presenta-se para alcalde. Non o cres e volves-llo preguntar.
+*Mario para alcalde?*
+
+#### Counterexpectational wh- echo question
+
+<!-- 27. Tu vecina te cuenta que fue a un restaurante a comer y pidió conejo con setas. Ella dice que le dieron liebre en lugar de conejo. No te lo acabas de creer. Pídelo qué le dieron (muy extrañada). -->
+27. A tua veciña conta-che que foi comer a un restaurante e pideu coello con cogumelos. Ela diche que lle deron lebre en vez de coello. Non llo cres. Pregunta-lle que le deron (moi abraiada).
+*Que che deron?*
+
+## Imperative
+
+### Command
+
+<!-- 28. Estás en el parque con tu nieta, María, y se te escapa. Dile que venga, que no se aleje tanto de ti. -->
+28. Estas no parque ca neta, Maria, e escapache. Dille que volva e non marche tan lonxe de ti.
+*Vente e non marches tan lonxe de min!*
+
+### Request
+
+<!-- 29. Quieres ir al cine con un amigo. Te dice que tiene trabajo, pero tú sabes que el trabajo lo puede dejar. ¿Cómo lo harías para convencerlo? -->
+29. Ques ir o cine con amigo. Diche que ten traballo, mais ti sabes que o pode deixa-lo traballo. ¿Cómo farías pa convence-lo?
+<!-- *¡Va, vente!* -->
+*Veña, oh, vente!*
+
+## Vocatives
+
+<!-- 30. Entras en una casa de una amiga tuya, Marina, pero al entrar no la ves. Llámala. -->
+30. Entras na casa duna amiga tua, Marina, mais o entrar no a ves. Chama por ela.
+
+<!-- 31. Pasan diez segundos y no sale nadie. Vuelve a llamarla. -->
+31. Pasan dez segundos e non sale ninguén. Volve a chama-la.
