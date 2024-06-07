@@ -19,7 +19,7 @@ toc: TRUE
 
 <!-- 2. Mira el dibujo y di lo que hace la niña. -->
 2. Mira o debuxo e di o que fa a rapaza.
-![fig. 1](girl_drinking_lemonade.PNG)
+![fig. 1](girl_drinking_lemonade.png)
 <!-- *Bebe una limonada.* -->
 *Bebe unha lemonada.*
 
@@ -51,7 +51,7 @@ A. Quero un kilo de limons.
 B. ¿De laranxas?
 
 <!-- *A. No, de LIMONES.* -->
-*A. Non, de limons*
+*A. Non, de LIMONS*
 
 #### Exclamative
 
@@ -205,10 +205,14 @@ B. ¿De laranxas?
 <!-- *¡Va, vente!* -->
 *Veña, oh, vente!*
 
-## Vocatives
+## Vocative
+
+### Neutral
 
 <!-- 30. Entras en una casa de una amiga tuya, Marina, pero al entrar no la ves. Llámala. -->
 30. Entras na casa duna amiga tua, Marina, mais o entrar no a ves. Chama por ela.
+
+### Insistent
 
 <!-- 31. Pasan diez segundos y no sale nadie. Vuelve a llamarla. -->
 31. Pasan dez segundos e non sale ninguén. Volve a chama-la.

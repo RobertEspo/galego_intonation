@@ -1,0 +1,5 @@
+Go to directory with .m4a files.
+In the address bar, type "cmd" to open command line.
+In the command line, paste the following script:
+
+for %i in (*.m4a) do ffmpeg -i "%i" "%~ni.wav"
