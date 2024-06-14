@@ -1,0 +1,1 @@
+This repo contains the work-in-progress for carrying out a discourse completion task to obtain an intonation inventory in Galician. 
